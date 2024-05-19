@@ -1,8 +1,11 @@
 # General Healthcare Facility Pre-Triage Application
 
 The key points about this module are:
+
 ✒ It creates a lineup of patients and issues tickets for them as they arrive at the healthcare facility, categorizing them as either contagion or triage patients.
+
 ✒The module is instantiated by loading a data file containing records of patients already in the lineup, allowing it to resume from the previous state.
+
 ✒When the module exits, it saves all patient information to a data file, enabling the application to restart in the same state as the last execution by loading this file.
 
 The purpose of creating this Pre-Triage module is to manage the intake and queuing of patients arriving at the healthcare facility in an organized and efficient manner. 
