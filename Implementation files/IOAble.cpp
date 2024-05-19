@@ -3,7 +3,6 @@ Final Project Milestone 5.1
 Module: IOAble Implementation File
 Filename: IOAble.cpp
 Version 1.0
-Author   Potpourri P.Fajilagot
 Revision History
 -----------------------------------------------------------
 Date      Reason
