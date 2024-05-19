@@ -1,5 +1,3 @@
-#General Healthcare Facility Pre-Triage Application
-
 Learnings and Skill Development
 Working on the "General Healthcare Facility Pre-Triage Application" project has been a valuable learning experience for me.
 As I transitioned from C to C++, I gained a deeper understanding of object-oriented programming (OOP) concepts and how they
