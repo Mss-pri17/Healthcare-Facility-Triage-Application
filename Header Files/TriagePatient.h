@@ -1,15 +1,3 @@
-/*/////////////////////////////////////////////////////////////////////////
-                          MILESTONE 4
-Full Name  : POTPOURRI FAJILAGOT
-Student ID#: 122976236
-Email      : pfajilagot@myseneca.ca
-Section    : NHH
-Description: TriagePatient Header File
-
-Authenticity Declaration:
-I have done all the coding by myself and only copied the code that my
-professor provided to complete my workshops and assignments.
-/////////////////////////////////////////////////////////////////////////*/
 #ifndef SENECA_TRIAGEPATIENT_H_
 #define SENECA_TRIAGEPATIENT_H_
 

@@ -3,7 +3,6 @@ Final Project Milestone 5
 Module: PreTriage Header File
 Filename: PreTriage.h
 Version 1.0
-Author   Potpourri P.Fajilagot
 Revision History
 -----------------------------------------------------------
 Date      Reason
