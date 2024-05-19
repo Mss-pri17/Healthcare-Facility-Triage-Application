@@ -13,7 +13,7 @@ By issuing tickets and categorizing patients, it helps streamline the process of
 The stateful nature of the module, with the ability to save and load patient data, allows for continuity and seamless operation even after the application is restarted.
 
 # Learnings and Skill Development
-Working on the "General Healthcare Facility Pre-Triage Application" project has been a valuable learning experience for me.
+✒ Working on the "General Healthcare Facility Pre-Triage Application" project has been a valuable learning experience for me.
 As I transitioned from C to C++, I gained a deeper understanding of object-oriented programming (OOP) concepts and how they
 can be applied to real-world problems.
 
