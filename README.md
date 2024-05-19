@@ -1,5 +1,14 @@
 # General Healthcare Facility Pre-Triage Application
 
+The key points about this module are:
+✒ It creates a lineup of patients and issues tickets for them as they arrive at the healthcare facility, categorizing them as either contagion or triage patients.
+✒The module is instantiated by loading a data file containing records of patients already in the lineup, allowing it to resume from the previous state.
+✒When the module exits, it saves all patient information to a data file, enabling the application to restart in the same state as the last execution by loading this file.
+
+The purpose of creating this Pre-Triage module is to manage the intake and queuing of patients arriving at the healthcare facility in an organized and efficient manner. 
+By issuing tickets and categorizing patients, it helps streamline the process of admitting them to the appropriate care centers (contagion test center or triage center). 
+The stateful nature of the module, with the ability to save and load patient data, allows for continuity and seamless operation even after the application is restarted.
+
 # Learnings and Skill Development
 Working on the "General Healthcare Facility Pre-Triage Application" project has been a valuable learning experience for me.
 As I transitioned from C to C++, I gained a deeper understanding of object-oriented programming (OOP) concepts and how they
@@ -33,3 +42,7 @@ to identify and resolve complex issues. This allowed me to gain a deeper underst
 during the development process.
 
 # Conclusion
+The "General Healthcare Facility Pre-Triage Application" project has been a transformative experience for me. It has not only strengthened my
+C++ programming skills but also helped me develop a better understanding of object-oriented design principles and their practical application. 
+The challenges I faced and the strategies I employed have contributed to my personal growth as a software developer, and I am confident that 
+the lessons learned will continue to benefit me in future projects.
